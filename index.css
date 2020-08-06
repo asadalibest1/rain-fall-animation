@@ -1,0 +1,39 @@
+body{
+    background-image: url('./images/bg-image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 99%;
+    overflow: hidden;
+}
+#img1{
+    width: 260px;
+    height: 210px;
+    margin-bottom: 140px;
+    
+}
+#img2{
+    width: 350px;
+    height: 300px;
+    margin-bottom: 50px;
+    
+}
+#img3{
+    width: 200px;
+    height: 150px;
+    margin-bottom: 180px;
+    
+}
+#wind{
+    width: 70px;
+    height: 70px;
+}
+#wind2, #wind3{
+    width: 90px;
+    height: 90px;
+}
+#box2{
+margin-top: 110px;
+
+}
+#wind3{
+    margin-left: 120px;
+}
